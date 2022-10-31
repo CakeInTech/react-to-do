@@ -2,7 +2,7 @@
 
 # React To-do List
 
-> A simple and fun website that contains three single page applications. It has welcome page, calculator page, quotes page. this project is built with react.
+> A simple and fun website that creates daily tasks and let's you list them. You can then Add, Delete, and Edit them. Used React and storing data on the local storage.
 
 
 ## Built With
